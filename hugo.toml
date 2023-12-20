@@ -1,0 +1,43 @@
+baseURL = 'emanuelhentes.com'
+languageCode = 'en-us'
+title = 'Emanuel Henteș'
+theme = 'PaperMod'
+
+[params.profileMode]
+enabled = true
+title = ''
+subtitle = 'PhD Candidate at Utrecht University \n \n ‎ \n \n emanuelhentes@gmail.com'
+imageUrl = 'photo.jpg'
+
+[[params.socialIcons]]
+name = 'linkedin'
+url = 'https://www.linkedin.com/in/emanuelhentes/'
+
+[[params.socialIcons]]
+name = 'twitter'
+url = 'https://www.twitter.com/emanuelhentes/'
+
+[[params.socialIcons]]
+name = 'googlescholar'
+url = 'https://scholar.google.com/citations?hl=en&user=eBsRTXUAAAAJ'
+
+[[params.socialIcons]]
+name = 'orcid'
+url = 'https://orcid.org/0000-0003-4909-6974'
+
+[menus]
+[[menus.main]]
+    name = 'Home'
+    pageRef = '/'
+    weight = 10
+[[menus.main]]
+    name = 'About'
+    pageRef = '/about'
+    weight = 20
+[[menus.main]]
+    name = 'Publications'
+    pageRef = '/publications'
+    weight = 30
+
+
+
