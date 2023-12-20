@@ -1,4 +1,4 @@
-baseURL = 'emanuelhentes.com'
+baseURL = 'https://clinquant-kringle-9856a7.netlify.app/'
 languageCode = 'en-us'
 title = 'Emanuel Henteș'
 theme = 'PaperMod'
