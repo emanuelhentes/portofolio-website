@@ -1,4 +1,4 @@
-baseURL = 'https://emanuelhentes.github.io/portofolio-website/'
+baseURL = 'https://emanuelhentes.com'
 languageCode = 'en-us'
 title = 'Emanuel Henteș'
 theme = 'PaperMod'
@@ -6,7 +6,11 @@ theme = 'PaperMod'
 [params.profileMode]
 enabled = true
 title = ''
-subtitle = 'PhD Candidate at Utrecht University emanuelhentes@gmail.com'
+subtitle = '''PhD Candidate at Utrecht University 
+
+‎ 
+
+emanuelhentes@gmail.com'''
 imageUrl = 'photo.jpg'
 
 [[params.socialIcons]]
