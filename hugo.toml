@@ -1,4 +1,4 @@
-baseURL = 'https://clinquant-kringle-9856a7.netlify.app/'
+baseURL = 'https://emanuelhentes.github.io/portofolio-website/'
 languageCode = 'en-us'
 title = 'Emanuel Henteș'
 theme = 'PaperMod'
@@ -6,7 +6,7 @@ theme = 'PaperMod'
 [params.profileMode]
 enabled = true
 title = ''
-subtitle = 'PhD Candidate at Utrecht University \n \n ‎ \n \n emanuelhentes@gmail.com'
+subtitle = 'PhD Candidate at Utrecht University emanuelhentes@gmail.com'
 imageUrl = 'photo.jpg'
 
 [[params.socialIcons]]
