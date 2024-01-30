@@ -37,7 +37,7 @@ name = 'orcid'
 url = 'https://orcid.org/0000-0003-4909-6974'
 
 [[params.socialIcons]]
-name = 'twitter'
+name = 'researchgate'
 url = 'https://www.researchgate.net/profile/Emanuel-Hentes-2'
 
 [menus]
