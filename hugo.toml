@@ -1,6 +1,6 @@
 baseURL = 'https://emanuelhentes.com'
 languageCode = 'en-us'
-title = 'Emanuel Henteș'
+title = 'Emanuel Hentes'
 theme = 'PaperMod'
 
 [params.assets]
