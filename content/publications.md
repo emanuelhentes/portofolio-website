@@ -13,4 +13,6 @@ draft = false
 
 [3] [The Benefits of (B&W) Polyester Film](https://www.35mmc.com/30/01/2022/the-benefits-of-bw-polyester-film-by-emanuel-hentes/) (*35mmc.com*)
 
-[4] [Homeopatia – încotro? [Romanian]](https://www.viata-medicala.ro/homeopatia-incotro-27856) (*viata-medicala.ro*)
+[4] [Despre știință și (dez)informare – reflecții de după pandemie [Romanian]](https://www.syntopic.ro/despre-stiinta-si-dezinformare-reflectii-de-dupa-pandemie/) (*syntopic.ro*)
+
+[5] [Homeopatia – încotro? [Romanian]](https://www.viata-medicala.ro/homeopatia-incotro-27856) (*viata-medicala.ro*)
