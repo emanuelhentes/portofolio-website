@@ -56,7 +56,7 @@ url = 'https://www.researchgate.net/profile/Emanuel-Hentes-2'
 [[menus.main]]
     name = 'CV'
     pageRef = '/cv'
-    weight = 30
+    weight = 40
 
 
 
