@@ -8,7 +8,7 @@ I am a PhD Candidate at the Faculty of Social and Behavioural Sciences, Utrecht 
 *Supervisors*: [Dr. Deni Mazrekaj](https://denimazrekaj.com) (daily supervisor) and [Prof. Dr. Tanja van der Lippe](https://www.uu.nl/staff/tvanderlippe)
 
 ### Education
-**2021–2023, Netherlands Institute for Health Sciences**   
+**2021–2023, Erasmus University Rotterdam**   
 MSc (Res) in Health Sciences (Biostatistics major)
 
 **2018–2021, Babeș-Bolyai University**   

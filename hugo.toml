@@ -53,6 +53,10 @@ url = 'https://www.researchgate.net/profile/Emanuel-Hentes-2'
     name = 'Publications'
     pageRef = '/publications'
     weight = 30
+[[menus.main]]
+    name = 'CV'
+    pageRef = '/cv'
+    weight = 30
 
 
 
