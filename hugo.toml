@@ -3,6 +3,16 @@ languageCode = 'en-us'
 title = 'Emanuel Hentes'
 theme = 'PaperMod'
 
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-7WG8T85KBS"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-7WG8T85KBS');
+</script>
+
 [params.assets]
 favicon = "/favicon.ico"
 favicon16x16 = "/favicon-16x16.png"
